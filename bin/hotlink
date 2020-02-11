@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# run this from the devnode directory, which should be next to the ravencore-node directory
+# replaces in-project dependencies with symbolic links to sister directories
+# use this if you're doing work on sub-projects (like ravend-rpc)
+
+rm -rf ../ravencore-node/node_modules/ravend-rpc
+ln -s ../../ravend-rpc ../ravencore-node/node_modules/ravend-rpc
