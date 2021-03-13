@@ -7,9 +7,9 @@ This project is for developers.  It's purpose is to help them set up a local nod
 ## Instructions
 
 * Clone the following into directories next to this one:
-    * [ravencore-node](https://github.com/RavenDevKit/ravencore-node)
-    * [insight-api](https://github.com/RavenDevKit/insight-api)
-    * [insight-ui](https://github.com/RavenDevKit/insight-ui)
+    * [ravencore-node](https://github.com/dataturk/ravencore-node)
+    * [insight-api](https://github.com/dataturk/insight-api)
+    * [insight-ui](https://github.com/dataturk/insight-ui)
 
     Your directory structure should now look like this:
     ```bash
